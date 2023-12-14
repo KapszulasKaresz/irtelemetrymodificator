@@ -1,0 +1,6 @@
+﻿  irsdk_diskclient.cpp
+  yaml_parser.cpp
+  ffbforce.cpp
+  irsdk_utils.cpp
+  Generating Code...
+  irsdk_ffbforce.vcxproj -> D:\irsdk\irsdk\x64\Debug\irsdk_ffbforce.exe

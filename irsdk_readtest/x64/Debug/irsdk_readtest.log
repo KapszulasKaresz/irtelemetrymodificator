@@ -1,0 +1,6 @@
+﻿  readtest.cpp
+D:\irsdk\irsdk\irsdk_readtest\readtest.cpp(54,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\irsdk\irsdk\irsdk_readtest\readtest.cpp(57,16): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\irsdk\irsdk\irsdk_readtest\readtest.cpp(265,25): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\irsdk\irsdk\irsdk_readtest\readtest.cpp(265,40): warning C4309: 'argument': truncation of constant value
+  irsdk_readtest.vcxproj -> D:\irsdk\irsdk\x64\Debug\irsdk_readtest.exe
